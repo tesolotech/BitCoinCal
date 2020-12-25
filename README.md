@@ -1,2 +1,0 @@
-# BitCoinCal
-Javascript Handson
